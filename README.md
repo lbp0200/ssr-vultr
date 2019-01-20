@@ -38,6 +38,32 @@ PORT端口号，不建议修改
 
 > 完成服务器的部署，等待服务器部署完成
 
+ssr客户端的配置文件
+```json
+{
+    "server": "VPS_IP",
+    "server_port": 443,
+    "local_address": "0.0.0.0",
+    "local_port": 1083,
+    "password": "pwd",
+    "method": "aes-128-ctr",
+    "protocol": "auth_aes128_md5",
+    "protocol_param": "",
+    "obfs": "tls1.2_ticket_auth",
+    "obfs_param": "",
+    "speed_limit_per_con": 0,
+    "speed_limit_per_user": 0,
+    "additional_ports": {},
+    "additional_ports_only": false,
+    "timeout": 120,
+    "udp_timeout": 60,
+    "dns_ipv6": false,
+    "connect_verbose_info": 0,
+    "redirect": "",
+    "fast_open": false
+}
+```
+
 功能
 ---
 已启用bbr加速
