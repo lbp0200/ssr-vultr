@@ -1,0 +1,14 @@
+[Install]
+WantedBy=multi-user.target
+
+[Unit]
+Description=ssr server
+Requires=network.target
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/opt/shadowsocksr
+ExecStart=/usr/bin/python2.7 /opt/shadowsocksr/shadowsocks/server.py -c /opt/shadowsocksr/config.server.json
+LimitNOFILE=65535
+User=root
