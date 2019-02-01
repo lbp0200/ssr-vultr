@@ -18,7 +18,7 @@
 
 `Type`->`Boot`
 
-最后一项，打开，复制里面的内容，粘贴进去
+最后一项，打开[VultrStartupScript.sh](https://raw.githubusercontent.com/lbp0200/ssr-vultr/master/VultrStartupScript.sh)，复制里面的内容，粘贴进去
 
 第二行是参数
 
