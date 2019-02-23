@@ -7,6 +7,9 @@
 
 目前Vultr在搞活动，新注册用户，充50送25，可以考虑新建的小号薅羊毛，需要老用户邀请，附上邀请链接[https://www.vultr.com/?ref=7780016-4F](https://www.vultr.com/?ref=7780016-4F)
 
+[![在线自动部署shadowsocksR](https://img.youtube.com/vi/mj4t6hYi9qI/0.jpg)](https://www.youtube.com/watch?v=mj4t6hYi9qI)
+
+
 使用方法
 ---
 
