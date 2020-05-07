@@ -1,11 +1,9 @@
 # ssr-vultr
-在vultr上，在线自动部署ssr
+在[vultr](https://www.vultr.com/?ref=6879156)上，在线自动部署ssr
 
 自动部署v2ray，[v2ray-vultr](https://github.com/lbp0200/v2ray-vultr)
 
 >只支持Ubuntu 18.04
-
-目前Vultr在搞活动，新注册用户，充50送25，可以考虑新建的小号薅羊毛，需要老用户邀请，附上邀请链接[https://www.vultr.com/?ref=8566686-6G](https://www.vultr.com/?ref=8566686-6G)
 
 下方视频教程：
 ---
@@ -17,7 +15,7 @@
 
 ### 第一步
 
-打开[Vultr](https://polr.liuboping.com/PrgTf)，登录之后，在`Servers`-`Startup Scripts`-`Add Startup Script`
+打开[Vultr](https://www.vultr.com/?ref=6879156)，登录之后，在`Servers`-`Startup Scripts`-`Add Startup Script`
 
 `name` 随便填
 
