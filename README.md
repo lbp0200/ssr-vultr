@@ -5,7 +5,7 @@
 
 >只支持Ubuntu 18.04
 
-目前Vultr在搞活动，新注册用户，充50送25，可以考虑新建的小号薅羊毛，需要老用户邀请，附上邀请链接[https://www.vultr.com/?ref=7780016-4F](https://www.vultr.com/?ref=7780016-4F)
+目前Vultr在搞活动，新注册用户，充50送25，可以考虑新建的小号薅羊毛，需要老用户邀请，附上邀请链接[https://www.vultr.com/?ref=6879156](https://www.vultr.com/?ref=6879156)
 
 下方视频教程：
 ---
